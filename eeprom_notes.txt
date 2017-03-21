@@ -1,0 +1,2 @@
+
+Note:  bits pushed into the 74HC595 shift register appear starting at QsubH and run down to QsubA.
